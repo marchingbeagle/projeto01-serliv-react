@@ -1,0 +1,11 @@
+.button {
+  margin: 0 5px 0 5px;
+  padding: 10px;
+  border: 1px #ffffff solid;
+  background-color: rgb(0, 0, 0, 0.7);
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  cursor: pointer;
+}

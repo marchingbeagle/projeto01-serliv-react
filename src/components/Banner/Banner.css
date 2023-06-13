@@ -1,0 +1,29 @@
+.banner {
+  background-image: url(../../../public/bg-2.jpg);
+  background-size: cover;
+  background-position: right center;
+  height: 500px;
+  color: #fff;
+}
+
+.banner-main-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.banner-title {
+  font-size: 50px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 1px black;
+}
+
+.banner-description {
+  display: inline-block;
+  margin: auto;
+  background-color: rgb(0, 0, 0, 0.7);
+  padding: 10px;
+  font-size: 15px;
+  border-bottom: white 2px solid;
+}

@@ -1,0 +1,8 @@
+.nav-header {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 2rem;
+  gap: 1rem;
+  box-sizing: border-box;
+}
